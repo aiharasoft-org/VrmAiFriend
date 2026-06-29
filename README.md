@@ -1,2 +1,2 @@
-# VrmAiFriend-Release
+# VrmAiFriend
 VrmAiFriend のリリース用
