@@ -1,8 +1,8 @@
 # Changelog
 
-## [0.8.0] — Windows 対応
+## [0.8.0] — Windows 対応版
 
-**リリース名:** Windows 対応  
+**リリース名:** Windows 対応版  
 **対象プラットフォーム:** Windows、macOS（Windows 版を新規追加。macOS は従来どおり利用可能）
 
 ### Added
